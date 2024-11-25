@@ -172,3 +172,23 @@ p {
     width: 90%;
   }
 }
+
+#About .d-flex {
+
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+#About img {
+  max-width: 100%;
+  height: auto;
+}
+
+.check {
+  margin-right: 20px;
+}
+
+#About h5 {
+  font-weight: bold;
+}
+
